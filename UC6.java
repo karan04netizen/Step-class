@@ -5,7 +5,7 @@ public class Slash {
         String[] letterO = buildO();
         String[] letterP = buildP();
         String[] letterS = buildS();
-
+ 
         String[] banner = new String[7];
 
         // Combine letters row-by-row
